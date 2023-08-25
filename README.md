@@ -8,7 +8,7 @@
 ## 🏃‍♂️ Active Projects 🏃‍♂️
 | Project              | Description | Repository | Github Project |
 | :-------------------: | :---------: | :--------: | :--------------: |
-| `OpEVM`        |   OpEVM is a sovereign EVM-compatible optimistic rollup construction designed for efficient and secure transaction processing. It provides a decentralized infrastructure for running a layer-2 (L2) blockchain and enables high-throughput, low-latency transaction processing. OpEVM is built on top of the Avail and offers advanced features for block validation, fraud-proof detection, and transaction verification.   |  [link]((https://github.com/availproject/op-evm)) | link |
+| `OpEVM`        |   OpEVM is a sovereign EVM-compatible optimistic rollup construction designed for efficient and secure transaction processing. It provides a decentralized infrastructure for running a layer-2 (L2) blockchain and enables high-throughput, low-latency transaction processing. OpEVM is built on top of the Avail and offers advanced features for block validation, fraud-proof detection, and transaction verification. |  [link](https://github.com/availproject/op-evm) | link |
 | `Sovereign DA Adapter`           |   TBD  | [link](https://github.com/availproject/avail-sovereign-da-adapter) | link |
 | `op-stack adapter`    |  TBD   | link | link |
 | `Madara Adapter` |  TBD   | link | link |
