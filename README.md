@@ -31,17 +31,17 @@ Want to contribute to cutting-edge solutions, solve problems, and be a part of A
 </div>
 
 ### FAQs ❓
-1. What is Avail Explorations?<br>
+1.**What is Avail Explorations?** <br>
 Avail Explorations Program is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
 
-2. How can I contribute?<br>
+2. **How can I contribute?** <br>
 You can get started by contributing to one of our existing open-sourced exploration projects listed above or by submitting a proposal to one of our open RFPs as part of our Grants Program. Embrace open-source ethos and watch your vision thrive! 
 
-3. I have an idea for a project, where should I submit it?<br>
-If your idea is part of the RFPs we uploaded, consider submitting a proposal, we would love to see your ideas come into fruition. If not, you can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas in our forums and gather feedback from the Avail Team and the community at large. You may also utilize our Office Hours support to schedule a meeting with a member of the Avail Team to help guide you.
+3. **I have an idea for a project, where should I submit it?** <br>
+If your idea is part of the RFPs we uploaded, consider submitting a proposal, we would love to see your ideas come to fruition. If not, you can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas in our forums and gather feedback from the Avail Team and the community at large. You may also utilize our Office Hours support to schedule a meeting with a member of the Avail Team to help guide you.
 
-4. Can I collaborate with Avail Explorations?<br>
+4. **Can I collaborate with Avail Explorations?** <br>
 Absolutely! We encourage collaboration. Reach out to us at [contact@] for partnership inquiries and innovative ventures.
 
-5. How can I stay updated?<br>
-Follow us on X and our Blog to stay in the loop on exciting developments and projects.
+5. **How can I stay updated?** <br>
+Follow us on [X](AvailProject) and [our Blog](https://blog.availproject.org/) to stay in the loop on exciting developments and projects.
