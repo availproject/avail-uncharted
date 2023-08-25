@@ -15,7 +15,7 @@
 | `nft zkapp + async composability exploration` |  TBD   | link | link |
 
 ### 🗺 Embrace Uncharted Territories 🗺
-At Avail Nexus Explorers, the rules of convention don't apply. Embrace your innovative spirit and venture into the unknown. Our mission is to nurture visionary ideas that transcend existing boundaries. Let's continue to push the limits of Avail's potential and keep the exploration of the modular space dynamic and boundless!
+At Avail Explorations, the rules of convention don't apply. Embrace your innovative spirit and venture into the unknown. Our mission is to nurture visionary ideas that transcend existing boundaries. Let's continue to push the limits of Avail's potential and keep the exploration of the modular space dynamic and boundless!
 
 ### 🕊 Open Source since Inception 🕊
 Every project we embark upon is open-sourced from its very inception. We champion collaboration, transparency, and collective growth. Join us in our expedition to cultivate a culture of innovation.
