@@ -18,12 +18,12 @@
 Avail Explorations is an open collective committed to promoting innovation and pushing the boundaries of modular space. We believe in the endless possibilities that arise from exploring new frontiers.
 
 ### 🕊 Open Source since Inception 🕊
-Every project we work upon is open-sourced from its very inception. We encourage collaboration, transparency, and collective growth. Join us in our expedition to cultivate a culture of innovation.
+Every project we work on is open-sourced from its very inception. We encourage collaboration, transparency, and collective growth. Join us in our expedition to cultivate a culture of innovation.
 
 ### 👥 Join the Expedition 👥
 Join us at Avail Explorations to contribute your ideas, expertise, and enthusiasm towards shaping the Avail ecosystem. Stay tuned for exciting announcements, community events, and project showcases. Together, let us embark on a journey towards uncharted horizons.
 
-Connect with us on X and Discord for the latest updates and discussions.
+Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord.gg/y6fHnxZQX8) for the latest updates and discussions.
 
 ## 💰 Grants 💰
 Want to contribute to cutting-edge solutions, solve problems, and be a part of Avail's Contributor ecosystem? Check out our open RFPs here. Learn more about the Grants Program here.
@@ -31,7 +31,7 @@ Want to contribute to cutting-edge solutions, solve problems, and be a part of A
 </div>
 
 ### FAQs ❓
-1.**What is Avail Explorations?** <br>
+1. **What is Avail Explorations?** <br>
 Avail Explorations Program is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
 
 2. **How can I contribute?** <br>
@@ -40,8 +40,8 @@ You can get started by contributing to one of our existing open-sourced explorat
 3. **I have an idea for a project, where should I submit it?** <br>
 If your idea is part of the RFPs we uploaded, consider submitting a proposal, we would love to see your ideas come to fruition. If not, you can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas in our forums and gather feedback from the Avail Team and the community at large. You may also utilize our Office Hours support to schedule a meeting with a member of the Avail Team to help guide you.
 
-4. **Can I collaborate with Avail Explorations?** <br>
+4. **Can I collaborate with Avail Explorations Team?** <br>
 Absolutely! We encourage collaboration. Reach out to us at [contact@] for partnership inquiries and innovative ventures.
 
 5. **How can I stay updated?** <br>
-Follow us on [X](AvailProject) and [our Blog](https://blog.availproject.org/) to stay in the loop on exciting developments and projects.
+Follow us on [X](https://x.com/AvailProject) and [our Blog](https://blog.availproject.org/) to stay in the loop on exciting developments and projects.
