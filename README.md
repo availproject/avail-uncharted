@@ -9,6 +9,7 @@
 | Project              | Description | Repository | Github Project |
 | :-------------------: | :---------: | :--------: | :--------------: |
 | `OpEVM`        |   OpEVM is a sovereign EVM-compatible optimistic rollup construction designed for efficient and secure transaction processing. It provides a decentralized infrastructure for running a layer-2 (L2) blockchain and enables high-throughput, low-latency transaction processing. OpEVM is built on top of the Avail and offers advanced features for block validation, fraud-proof detection, and transaction verification. |  [link](https://github.com/availproject/op-evm) | link |
+| `ZkEVM Validium` | A production-ready validium based on the Polygon zkEVM stack with Avail as the data availability layer for scalable and secure DA. This will allow for higher throughput with reduced costs compared to traditional L2 rollups while inheriting the security of Ethereum. | link | link |
 | `Sovereign DA Adapter`           |   TBD  | [link](https://github.com/availproject/avail-sovereign-da-adapter) | link |
 | `op-stack adapter`    |  TBD   | link | link |
 | `Madara Adapter` |  TBD   | link | link |
