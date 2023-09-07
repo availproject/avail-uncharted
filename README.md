@@ -7,10 +7,10 @@
 
 ## 🏃‍♂️ Active Projects 🏃‍♂️
 | Project              | Description | Repository |
-| :-------------------: | :---------: | :--------: |
+| :----------------------: | :---------: | :--------: |
 | `op-evm`        |   OpEVM is a sovereign EVM-compatible optimistic rollup construction designed for efficient and secure transaction processing. It provides a decentralized infrastructure for running a layer-2 (L2) blockchain and enables high-throughput, low-latency transaction processing. OpEVM is built on top of the Avail and offers advanced features for block validation, fraud-proof detection, and transaction verification. |  [link](https://github.com/availproject/op-evm) |
 | `zkevm-validium` | A production-ready validium based on the Polygon zkEVM stack with Avail as the data availability layer for scalable and secure DA. This will allow for higher throughput with reduced costs compared to traditional L2 rollups while inheriting the security of Ethereum. | [link](https://github.com/QEDK/zkevm-node) |
-| `sovereign-da-adapter`           |   TBD  | [link](https://github.com/availproject/sovereign-sdk/tree/main) |
+| `sovereign-da-adapter`           |   Data availability adapter for Sovereign Rollups integrated with `sovereign-sdk`  | [link](https://github.com/availproject/sovereign-sdk/tree/main) |
 | `madara-da-interface` |  A unified DA interface for Madara Starknet Sequencer to publish data onto a preferred DA Layer such as Avail for a reliable and secure DA. Using Madara you can launch your very own Starknet appchain or L3, tailored to your specific needs.    | [link](https://github.com/keep-starknet-strange/madara/pull/1021) |
 | `avail-optimism`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-optimism) |
 | `nft zkapp + async composability exploration` |  TBD   | link |
