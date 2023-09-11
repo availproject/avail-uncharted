@@ -16,24 +16,24 @@
 | `nft zkapp + async composability exploration` |  TBD   | link |
 
 ### 🗺 Embracing Innovation 🗺
-Avail Explorations is an open collective committed to promoting innovation and pushing the boundaries of modular space. We believe in the endless possibilities that arise from exploring new frontiers.
+Avail Uncharted is an open collective committed to promoting innovation and pushing the boundaries of modular space. We believe in the endless possibilities that arise from exploring new frontiers.
 
 ### 🕊 Open Source since Inception 🕊
 Every project we work on is open-sourced from its very inception. We encourage collaboration, transparency, and collective growth. Join us in our expedition to cultivate a culture of innovation.
 
 ### 👥 Join the Expedition 👥
-Join us at Avail Explorations to contribute your ideas, expertise, and enthusiasm towards shaping the Avail ecosystem. Stay tuned for announcements, community events, and project showcases. Together, let us embark on a journey towards uncharted horizons.
+Join us at Avail Uncharted to contribute your ideas, expertise, and enthusiasm towards shaping the Avail ecosystem. Stay tuned for announcements, community events, and project showcases. Together, let us embark on a journey towards uncharted horizons.
 
 Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord.gg/y6fHnxZQX8) for the latest updates and discussions.
 
 ## 💰 Grants 💰
-Want to contribute to cutting-edge solutions, solve problems, and be a part of Avail's Contributor ecosystem? Check out our open RFPs here. Learn more about [the Grants Program here.](https://github.com/availproject/avail-explorations/blob/1a3a32f1476f7bcd1357a066d410ef9a087168fd/grants/grants.md)
+Want to contribute to cutting-edge open-source projects, solve problems, and be a part of Avail's contributor ecosystem? Check out our open RFPs here. Learn more about [the Grants Program here.](https://github.com/availproject/avail-explorations/blob/1a3a32f1476f7bcd1357a066d410ef9a087168fd/grants/grants.md)
 
 </div>
 
 ### FAQs ❓
-1. **What is Avail Explorations?** <br>
-Avail Explorations Program is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
+1. **What is Avail Uncharted?** <br>
+Avail Uncharted is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
 
 2. **How can I contribute?** <br>
 You can get started by contributing to one of our existing open-sourced exploration projects listed above or by submitting a proposal to one of our open RFPs as part of our Grants Program. 
