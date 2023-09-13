@@ -13,6 +13,7 @@
 | `sovereign-da-adapter`           |   Data availability adapter for Sovereign Rollups integrated with `sovereign-sdk`  | [link](https://github.com/availproject/sovereign-sdk/tree/main) |
 | `madara-da-interface` |  A unified DA interface for Madara Starknet Sequencer to publish data onto a preferred DA Layer such as Avail for a reliable and secure DA. Using Madara you can launch your very own Starknet appchain or L3, tailored to your specific needs.    | [link](https://github.com/keep-starknet-strange/madara/pull/1021) |
 | `avail-optimism`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-optimism) |
+| `rollkit-da-adapter` | A Data availability adapter for Rollkit's modular rollup framework | [link](https://github.com/rollkit/rollkit/pull/1168) |
 | `nft zkapp + async composability exploration` |  TBD   | link |
 
 ### 🗺 Embracing Innovation 🗺
@@ -27,7 +28,7 @@ Join us at Avail Uncharted to contribute your ideas, expertise, and enthusiasm t
 Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord.gg/y6fHnxZQX8) for the latest updates and discussions.
 
 ## 💰 Grants 💰
-Want to contribute to cutting-edge open-source projects, solve problems, and be a part of Avail's contributor ecosystem? Check out our open RFPs here. Learn more about [the Grants Program here.](https://github.com/availproject/avail-explorations/blob/1a3a32f1476f7bcd1357a066d410ef9a087168fd/grants/grants.md)
+We will be launching our grants program soon! Keep an eye out for it 👀 
 
 </div>
 
@@ -36,10 +37,10 @@ Want to contribute to cutting-edge open-source projects, solve problems, and be 
 Avail Uncharted is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
 
 2. **How can I contribute?** <br>
-You can get started by contributing to one of our existing open-sourced exploration projects listed above or by submitting a proposal to one of our open RFPs as part of our Grants Program. 
+You can get started by contributing to one of our existing open-sourced exploration projects listed above. We will also be launching our grants program soon to help fund teams to work on problems that align with Avail's goals.
 
 3. **I have an idea for a project, where should I submit it?** <br>
-If your idea is part of the RFPs we uploaded, consider submitting a proposal, we would love to see your ideas come to fruition. If not, you can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas in our forums and gather feedback from the Avail Team and the community at large. You may also [get in touch with us](https://airtable.com/app3uGEo7mZ5jbIfW/shrLfg0gF0RiQ7kfV) to schedule a meeting with a member of the Avail Team to help guide you.
+You can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas on our Discord and gather feedback from the Avail Team and the community at large. You may also [get in touch with us](https://airtable.com/app3uGEo7mZ5jbIfW/shrLfg0gF0RiQ7kfV) to schedule a meeting with a member of the Avail Team to help guide you.
 
 4. **Can I collaborate with Avail Explorations Team?** <br>
 Absolutely! We encourage collaboration. Reach out to us at [contact@] for partnership inquiries and innovative ventures.
