@@ -40,10 +40,10 @@ Avail Uncharted is a program that is led by Avail's Exploration Team, dedicated 
 You can get started by contributing to one of our existing open-sourced exploration projects listed above. We will also be launching our grants program soon to help fund teams to work on problems that align with Avail's goals.
 
 3. **I have an idea for a project, where should I submit it?** <br>
-You can reach out to us via mail at [placeholder@]. You may also proceed to post your ideas on our Discord and gather feedback from the Avail Team and the community at large. You may also [get in touch with us](https://airtable.com/app3uGEo7mZ5jbIfW/shrLfg0gF0RiQ7kfV) to schedule a meeting with a member of the Avail Team to help guide you.
+You can reach out to us via mail at `exploration@availproject.org`. You may also proceed to post your ideas on our Discord and gather feedback from the Avail Team and the community at large. You may also [get in touch with us](https://airtable.com/app3uGEo7mZ5jbIfW/shrLfg0gF0RiQ7kfV) to schedule a meeting with a member of the Avail Team to help guide you.
 
 4. **Can I collaborate with Avail Explorations Team?** <br>
-Absolutely! We encourage collaboration. Reach out to us at [contact@] for partnership inquiries and innovative ventures.
+Absolutely! We encourage collaboration. Reach out to us at `exploration@availproject.org` for partnership inquiries and innovative ventures.
 
 5. **How can I stay updated?** <br>
 Follow us on [X](https://x.com/AvailProject) and [our Blog](https://blog.availproject.org/) to stay in the loop on exciting developments and projects.
