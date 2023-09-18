@@ -14,7 +14,7 @@
 | `madara-da-interface` |  A unified DA interface for Madara Starknet Sequencer to publish data onto a preferred DA Layer such as Avail for a reliable and secure DA. Using Madara you can launch your very own Starknet appchain or L3, tailored to your specific needs. ([Documentation](https://docs.madara.zone/ecosystem/avail))   | [link](https://github.com/keep-starknet-strange/madara/pull/1021) |
 | `avail-optimism`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-optimism) |
 | `rollkit-da-adapter` | A Data availability adapter for Rollkit's modular rollup framework | [link](https://github.com/rollkit/rollkit/pull/1168) |
-| `nft zkapp + async composability exploration` |  TBD   | link |
+
 
 ### 🗺 Embracing Innovation 🗺
 Avail Uncharted is an open collective committed to promoting innovation and pushing the boundaries of modular space. We believe in the endless possibilities that arise from exploring new frontiers.
