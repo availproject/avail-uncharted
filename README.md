@@ -25,7 +25,9 @@ Every project we work on is open-sourced from its very inception. We encourage c
 ### 👥 Join the Expedition 👥
 Join us at Avail Uncharted to contribute your ideas, expertise, and enthusiasm towards shaping the Avail ecosystem. Stay tuned for announcements, community events, and project showcases. Together, let us embark on a journey towards uncharted horizons.
 
-Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord.gg/y6fHnxZQX8) for the latest updates and discussions. Also don't forget to check out the [Avail Forum](https://forum.availproject.org/) -  a space to connect with the Explorations team and discuss with fellow community members about topics related to research, ideas, integration/technical support, and much more. 
+Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord.gg/y6fHnxZQX8) for the latest updates and discussions. 
+
+Also don't forget to check out the [Avail Forum](https://forum.availproject.org/) -  a space to connect with the Explorations team and discuss with fellow community members about topics related to research, ideas, integration/technical support, and much more. 
 
 ## 💰 Grants 💰
 We will be launching our grants program soon! Keep an eye out for it 👀 
