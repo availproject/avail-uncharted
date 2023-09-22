@@ -12,7 +12,7 @@
 | `sovereign-da-adapter`           |   Data availability adapter for Sovereign Rollups integrated with `sovereign-sdk`  | [link](https://github.com/availproject/sovereign-sdk/tree/main) |**Alpha Ready**✅ |
 | `madara-da-interface` |  A unified DA interface for Madara Starknet Sequencer to publish data onto a preferred DA Layer such as Avail for a reliable and secure DA. Using Madara you can launch your very own Starknet appchain or L3, tailored to your specific needs. ([Documentation](https://docs.madara.zone/ecosystem/avail))   | [link](https://github.com/keep-starknet-strange/madara/pull/1021) | **Alpha Ready✅** |
 | `zkevm-validium` | A production-ready validium based on the Polygon zkEVM stack with Avail as the data availability layer for scalable and secure DA. This will allow for higher throughput with reduced costs compared to traditional L2 rollups while inheriting the security of Ethereum. | [link](https://github.com/QEDK/zkevm-node) | **In Progress**🔃 |
-| `avail-optimism`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-optimism) | **In Progress**🔃 |
+| `avail-op-stack-adapter`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-optimism) | **In Progress**🔃 |
 | `rollkit-da-adapter` | A Data availability adapter for Rollkit's modular rollup framework | [link](https://github.com/rollkit/rollkit/pull/1168) | **In Progress**🔃 |
 
 
