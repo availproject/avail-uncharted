@@ -12,8 +12,15 @@
 | `sovereign-da-adapter`           |   Data availability adapter for Sovereign Rollups integrated with `sovereign-sdk`  | [link](https://github.com/availproject/sovereign-sdk/tree/main) |**Alpha Ready**✅ |
 | `madara-da-interface` |  A unified DA interface for Madara Starknet Sequencer to publish data onto a preferred DA Layer such as Avail for a reliable and secure DA. Using Madara you can launch your very own Starknet appchain or L3, tailored to your specific needs. ([Documentation](https://docs.madara.zone/ecosystem/avail))   | [link](https://github.com/keep-starknet-strange/madara/pull/1021) | **Alpha Ready✅** |
 | `validium-node` and `validium-contracts` | A production-ready validium based on the Polygon zkEVM stack with Avail as the data availability layer for scalable and secure DA. This will allow for higher throughput with reduced costs compared to traditional L2 rollups while inheriting the security of Ethereum. | [link (node)](https://github.com/QEDK/validium-node) <br>&<br> [link (contracts)](https://github.com/QEDK/validium-contracts) | **Alpha Ready✅**  |
+| `light-client-web` | An experimental web-based light client for Avail. It runs entirely in your browser to verify that block data is available, by verifying Avail's KZG commitment proofs locally. (WIP) | [repo](https://github.com/availproject/light-client-web) <br> [web-app](https://light.avail.tools/) | **Alpha Ready ✅** |
+| `avail-cli` | A simple CLI for all-in-one Avail utilities | [link](https://github.com/availproject/cli) | **Ready ✅** |
+| `light-client-lib` | WIP - Exposing light client as a library (Rust) | [link](https://github.com/availproject/light-client-lib) | **In Progress**🔃 |
+| `avail-lc-android-lib` | An implementation of the light client as an android library for easy integration (Kotlin). | [link](https://github.com/availproject/avail-lc-android-lib) | **In Progress**🔃 |
+| `metamask-snap-avail` | Experimental Metamask snap for Avail. It uses the MetaMask Snaps framework to extend MetaMask capabilities to include support for Avail. Substrate- and FRAME-based blockchains in the Polkadot ecosystem. | [link](https://github.com/availproject/metamask-snap-avail) | **In Progress**🔃 |
+| `zknft` |  An experimental project that delves into the realm of asynchronous composability in blockchains. This initiative aims to facilitate seamless communication and information sharing among diverse application chains. | [link](https://github.com/availproject/zknft) | **In Progress**🔃 |
 | `avail-op-stack-adapter`    | Avail DA's integration with Optimism's rollup SDK `op-stack` | [link](https://github.com/availproject/avail-op-stack-adapter) | **In Progress**🔃 |
 | `rollkit-da-adapter` | A Data availability adapter for Rollkit's modular rollup framework | [link](https://github.com/rollkit/rollkit/pull/1168) | **In Progress**🔃 |
+
 
 
 ### 🗺 Embracing Innovation 🗺
