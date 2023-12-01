@@ -26,8 +26,8 @@ Our primary focus is strengthening Avail's foundations and enabling future build
   - **[View Existing RFPs here.](https://github.com/availproject/avail-uncharted/tree/b02eb54ba22ecb82c9c861b1f71cc77d70886b76/grants/RFPs)**
   
 - **Open Source Contributor Grants -** In addition to external ecosystem building projects, we also want to encourage developers to contribute to any of our [existing Avail Uncharted projects](https://github.com/availproject/avail-uncharted#%EF%B8%8F-active-projects-%EF%B8%8F). Via an integration with OnlyDust we will be rewarding developers who help contribute to our projects through eligible PRs.
-    - [Learn more about the Contributor Grant process here](https://github.com/availproject/avail-uncharted/blob/main/grants/Open%20Source%20Contributors/contributor-grants.md)
-    - [View active Avail Uncharted Projects here ](https://github.com/availproject/avail-uncharted/tree/main#%EF%B8%8F-active-projects-%EF%B8%8F)
+    - **[Learn more about the Contributor Grant process here](https://github.com/availproject/avail-uncharted/blob/main/grants/Open%20Source%20Contributors/contributor-grants.md)**
+    - **[View active Avail Uncharted Projects here ](https://github.com/availproject/avail-uncharted/tree/main#%EF%B8%8F-active-projects-%EF%B8%8F)**
 
   Interested in contributing to any of the Uncharted projects but not sure how to start? Join our Avail Uncharted Developer Community to get onboarded to a project you want to help with.
 
