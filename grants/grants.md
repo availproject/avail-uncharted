@@ -29,7 +29,7 @@ Our primary focus is strengthening Avail's foundations and enabling future build
 
   Interested in contributing to any of the Uncharted projects but not sure how to start? Join our Avail Uncharted Developer Community to get onboarded to a project you want to help with.
 
-![FlowChart](https://github.com/availproject/avail-uncharted/blob/2987e9dd825ee31ccabe67a4f1b136f0aca95063/grants/Grants%20Program.jpg)
+![image](https://github.com/availproject/avail-uncharted/assets/66296664/8ba52208-e993-40b8-9eb3-5162edd6d5fb)
 
 
 Have any queries regarding the program? Hop onto our [Discord in the #avail-uncharted channel](https://discord.gg/availproject) or [reach out to us](https://airtable.com/app3uGEo7mZ5jbIfW/pagx1Wk6Fa1tEgqH8/form)
