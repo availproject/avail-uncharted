@@ -1,14 +1,13 @@
-### (Coming Soon!)
 # Grants Program 💰
 
 
 ## Overview 🐱‍👤
 
-Our grants program aims to **SCALE AVAIL’S ECOSYSTEM BY SUPPORTING** developers who are working on innovative projects that align with our mission.  We will offer funding to help these developers bring their ideas to life and positively impact their communities. Our initial focus will be on RFPs where we fund teams, collaborators, and developers for building tools based on the specific ecosystem projects needed by the Avail Exploration Team. 
+Our grants program aims to **SCALE AVAIL’S ECOSYSTEM BY SUPPORTING** developers who are working on innovative projects that align with our mission.  We will offer funding to help these developers bring their ideas to life and positively impact their communities. Our initial focus will be on RFPs where we fund teams, collaborators, and developers for building tools based on the specific ecosystem projects needed by the [Avail Exploration Team.](https://blog.availproject.org/meet-the-avail-explorations-team-charting-new-horizons/)
 
-We will also be focusing on individual and team contributors who help contribute via PRs directly to any of the current Uncharted projects the team is working on, via small micro-grants via OnlyDust. More information on this later.
+We will also be focusing on individual and team contributors who help contribute via PRs directly to any of the current Uncharted projects the team is working on, via small micro-grants via [OnlyDust](https://onlydust.xyz). More information on this later.
 
-We will eventually broaden our scope to a more generalized grants program to incentivize projects, and position Avail in the mind of developers as a secure and optimal base layer they can utilize. This grants program will be running in parallel with the Exploration Team’s operations and needs.
+We want to eventually broaden the grants program to be more open and generalized to grow Avail's ecosystem, solidifying it as a secure and optimal rollup infrastructure for scalable blockspace and data availability. This grants program will be running in parallel with the Exploration Team’s operations and needs.
 
 
 ## Scope 🤓
@@ -29,9 +28,12 @@ Our primary focus is strengthening Avail's foundations and enabling future build
     - **[Learn more about the Contributor Grant process here](https://github.com/availproject/avail-uncharted/blob/main/grants/Open%20Source%20Contributors/contributor-grants.md)**
     - **[View active Avail Uncharted Projects here ](https://github.com/availproject/avail-uncharted/tree/main#%EF%B8%8F-active-projects-%EF%B8%8F)**
 
-  Interested in contributing to any of the Uncharted projects but not sure how to start? Join our Avail Uncharted Developer Community to get onboarded to a project you want to help with.
+Interested in contributing to any of the Uncharted projects but not sure how to start? 
+
+Join our [Avail Uncharted Developer Community](https://t.me/avail_uncharted) to get onboarded to a project you want to help with or hop onto our [Discord in the #avail-uncharted channel.](https://discord.gg/availproject)
+
 
 ![image](https://github.com/availproject/avail-uncharted/assets/66296664/8ba52208-e993-40b8-9eb3-5162edd6d5fb)
 
 
-Have any queries regarding the program? Hop onto our [Discord in the #avail-uncharted channel](https://discord.gg/availproject) or [reach out to us](https://airtable.com/app3uGEo7mZ5jbIfW/pagx1Wk6Fa1tEgqH8/form)
+
