@@ -14,5 +14,5 @@ Be a contributor to any of Avail's existing Uncharted explorations projects, tak
 - Eligible PR (Pull Request) contributors will be contacted to receive their grant.
 - Grantees will be asked to sign up on OnlyDust to receive their grant.
 
+Interested in contributing to any of the Uncharted projects but not sure how to start? Join our[ Avail Uncharted Developer Community](https://t.me/avail_uncharted) to get onboarded to a project you want to help with.
 
-Interested in contributing to any of the Uncharted projects but not sure how to start? Join our Avail Uncharted Developer Community to get onboarded to a project you want to help with.
