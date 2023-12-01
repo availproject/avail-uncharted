@@ -21,9 +21,12 @@ Our primary focus is strengthening Avail's foundations and enabling future build
 - **Request for Proposals (RFPs) from the Exploration Team -** We are focusing on RFP grants where the Avail Team provides funding for specific development work. These RFP grants offer a unique opportunity for teams to receive funding for their contributions to projects that align with the Avail mission. As the name suggests, we are requesting proposals from teams that want to complete the work specified in each RFP.
     
     In these grants, we generally have areas of interest and focus points, that align with the Explorations Teams efforts. Some RFPs may ask contributors to propose their own milestones and funding needs, but they should still align with the project's goals. To ensure the proper use of funds, it is imperative that teams adhere to the scope outlined in the RFP. Funds will only be distributed on a milestone basis.
-  Learn more about the RFP process here.
+  
+  - **[Learn more about the RFP process here.](https://github.com/availproject/avail-uncharted/blob/b02eb54ba22ecb82c9c861b1f71cc77d70886b76/grants/RFPs/RFP-Process.md)**
+  - **[View Existing RFPs here.](https://github.com/availproject/avail-uncharted/tree/b02eb54ba22ecb82c9c861b1f71cc77d70886b76/grants/RFPs)**
   
 - **Open Source Contributor Grants -** In addition to external ecosystem building projects, we also want to encourage developers to contribute to any of our [existing Avail Uncharted projects](https://github.com/availproject/avail-uncharted#%EF%B8%8F-active-projects-%EF%B8%8F). Via an integration with OnlyDust we will be rewarding developers who help contribute to our projects through eligible PRs.
+
   Interested in contributing to any of the Uncharted projects but not sure how to start? Join our Avail Uncharted Developer Community to get onboarded to a project you want to help with.
     
 
