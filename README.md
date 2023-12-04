@@ -37,7 +37,13 @@ Connect with us on [X](https://x.com/AvailProject) and [Discord](https://discord
 Also don't forget to check out the [Avail Forum](https://forum.availproject.org/) -  a space to connect with the Explorations team and discuss with fellow community members about topics related to research, ideas, integration/technical support, and much more. 
 
 ## 💰 Grants 💰
-We will be launching our grants program soon! Keep an eye out for it 👀 
+Check out our [Grants Program.](grants/grants.md) We've got something for everyone! 
+
+[Request For Proposal (RFP) Grants](grants/RFPs/RFP-Process.md) | Check out our [Active RFPs ](grants/RFPs)
+
+[Open Source Contributor (Micro-Grants)](grants/Open%20Source%20Contributors/contributor-grants.md)
+
+![image](https://github.com/availproject/avail-uncharted/assets/66296664/8ba52208-e993-40b8-9eb3-5162edd6d5fb)
 
 </div>
 
@@ -46,7 +52,7 @@ We will be launching our grants program soon! Keep an eye out for it 👀
 Avail Uncharted is a program that is led by Avail's Exploration Team, dedicated to pioneering projects that push the modular space forward, expanding Avail's ecosystem, and collaborating with our developer community.
 
 2. **How can I contribute?** <br>
-You can get started by contributing to one of our existing open-sourced exploration projects listed above. We will also be launching our grants program soon to help fund teams to work on problems that align with Avail's goals.
+You can get started by contributing to one of our existing open-sourced exploration projects listed above. Eligible contributions (pull-requests) will receive a [Contributors Grant](grants/Open%20Source%20Contributors/contributor-grants.md) from the Avail team. If you'd like to help tackle one of our [active RFPs](grants/RFPs), feel free to apply for an [RFP Grant](grants/RFPs/RFP-Process.md).
 
 3. **I have an idea for a project, where should I submit it?** <br>
 You can reach out to us via mail at `exploration@availproject.org`. You may also proceed to post your ideas on our [Forum](https://forum.availproject.org/) and gather feedback from the Avail Team and the community at large. You may also [get in touch with us](https://airtable.com/app3uGEo7mZ5jbIfW/shrLfg0gF0RiQ7kfV) to schedule a meeting with a member of the Avail Team to help guide you.
