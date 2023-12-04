@@ -5,7 +5,7 @@ We are focusing on RFP grants where the Avail Team provides funding for specific
 In these grants, we generally have areas of interest and focus points, that align with the Explorations Teams efforts. Some RFPs may ask contributors to propose their own milestones and funding needs, but they should still align with the project's goals. To ensure the proper use of funds, it is imperative that teams adhere to the scope outlined in the RFP. Funds will only be distributed on a milestone basis.
 
 ## What does the Grant process look like? ✨
-  - Check out the [existing and open RFPs](https://github.com/availproject/avail-uncharted/tree/main/grants/RFPs) that you may want to work on.
+  - Check out the [existing and open RFPs](../RFPs) that you may want to work on.
   - Discuss and ask questions about the [RFPs on the Avail Forum](https://forum.availproject.org/c/research-and-explorations/rfp-discussion/27). 
   - Submit your proposal via the [submission form.](https://airtable.com/app3uGEo7mZ5jbIfW/shrMMQEmNgmcMyuHJ).
   - An Avail team member will get back to you regarding your proposal status. There may be additional rounds of discussions before a verdict is reached.
